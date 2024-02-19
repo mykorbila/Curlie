@@ -1,0 +1,16 @@
+# Main
+TOKEN="MTIwODY4NTMxODUxNDE1NTU0MA.GHcXl-.UmXem16zrhnwGRj2zVwl7aZGTj4mgtxjvTUjK8"
+ID="1208685318514155540"
+NAME="Curlie"
+READY="deneme"
+PREFIX="c!"
+BOTOWNERID="1208488737248645190"
+BOTOWNERNAME="Korbila"
+BOTSUPPORT="https://discord.gg/pYWTWPHfH9"
+
+# Database
+MONGODB="mongodb+srv://goelismacoddierdbsdasad:goecodlismadier@goelismadbasddsa.d3drdza.mongodb.net/"
+
+# Colors
+MAINCOLOR="#ff0000"
+ACCEPTCOLOR="#95e681"
